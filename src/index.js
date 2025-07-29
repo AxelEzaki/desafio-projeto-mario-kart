@@ -51,8 +51,8 @@ const playables = [
 const player1 = {
   NOME: "",
   VELOCIDADE: 0,
-  MANOBRABILIDADE: 1,
-  PODER: 1,
+  MANOBRABILIDADE: 0,
+  PODER: 0,
   PONTOS: 0,
 };
 
